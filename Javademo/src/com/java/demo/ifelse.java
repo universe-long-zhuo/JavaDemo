@@ -4,12 +4,12 @@ public class ifelse {
 
 	public static void main(String[] args) {
 		
-		int x = 30;   // Êı¾İÀàĞÍ  ±äÁ¿  ¸³Öµ 30£»
+		int x = 30;   // æ•°æ®ç±»å‹ å˜é‡ èµ‹å€¼ 30
 
-	    if( x < 20 )  // if(²¼¶û±í´ïÊ½)
-	        System.out.print("ÕâÊÇ if Óï¾ä");      //Èç¹û²¼¶û±í´ïÊ½µÄÖµÎªtrue
+	    if( x < 20 )  // if(å¸ƒå°”è¡¨è¾¾å¼)
+	        System.out.print("è¿™æ˜¯ if è¯­å¥");      //å¦‚æœå¸ƒå°”è¡¨è¾¾å¼çš„å€¼ä¸ºtrue
 	    //else
-	        System.out.print("ÕâÊÇ else Óï¾ä \n");  //Èç¹û²¼¶û±í´ïÊ½µÄÖµÎªfalse
+	        System.out.print("è¿™æ˜¯ else è¯­å¥ \n");  //å¦‚æœå¸ƒå°”è¡¨è¾¾å¼çš„å€¼ä¸ºfalse
 	    
 	    System.out.println("wwwwwwwwww");
 	    
